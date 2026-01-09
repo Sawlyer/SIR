@@ -1,2 +1,4 @@
 filtered_bands/
 .vscode/
+flopoco.vhdl
+__pycache__/
